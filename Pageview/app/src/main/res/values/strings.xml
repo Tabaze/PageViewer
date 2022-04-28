@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prenom :</string>
+    <string name="pg">page1</string>
+    <string name="pg2">page2</string>
+
+</resources>

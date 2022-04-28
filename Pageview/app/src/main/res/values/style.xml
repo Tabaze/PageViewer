@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="text" parent="android:Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#1D4FA8</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
+
+
+    <style name="btn" parent="android:Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#E10F0F</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+
+    <style name="Edit" parent="android:Widget.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:layout_margin">2dp</item>
+
+    </style>
+
+</resources>
